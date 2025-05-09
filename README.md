@@ -1,4 +1,4 @@
-tom Vision
+Atom Vision
 Atom Vision is a real-time surveillance system designed to enhance safety by detecting:
 
 Face Masks: Ensures compliance with health guidelines.
@@ -55,10 +55,6 @@ Opset Version: 8
 Input: Images of fixed size
 
 Output: Bounding boxes and class probabilities
-PyPI
-+1
-GitHub
-+1
 
 Installation
 Clone the Repository
@@ -103,12 +99,12 @@ Live camera feed
 Video files
 
 Image files
-Apache TVM Discuss
-+2
-GitHub
-+2
+MMDetection
+Hugging Face
++1
 PyPI
-+2
++1
+Medium
 
 Ensure that the input source is correctly specified in the configuration or command-line arguments.
 
@@ -121,10 +117,12 @@ Bounding boxes for detected objects
 Labels indicating the type of detection (e.g., "Mask", "Fire", "Weapon")
 
 Confidence scores
+Medium
++10
 PyPI
-+1
-PyPI
-+1
++10
+GitHub
++10
 
 Model Downloads
 The pre-trained models used by Atom Vision are available from the ONNX Model Zoo.
@@ -156,4 +154,3 @@ Note: If you encounter issues with wget due to GitHub's file hosting, consider d
 License
 This project is licensed under the MIT License.
 
-For any questions or contributions, please open an issue or submit a pull request.
